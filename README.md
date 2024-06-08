@@ -7,8 +7,8 @@ Get started with Teams AI library using the sample, which is designed to help yo
 ### Prerequisites
 To get started, ensure that you have the following tools:
 
-Install|For using...
-Visual Studio Code:	JavaScript, TypeScript, and Python build environments. Use the latest version.
+|Install|For using...|
+|Visual Studio Code:|JavaScript, TypeScript, and Python build environments. Use the latest version.|
 Teams Toolkit:	Microsoft Visual Studio Code extension that creates a project scaffolding for your app. Use the latest version.
 Git:	Git is a version control system that helps you manage different versions of code within a repository.
 Node.js:	Back-end JavaScript runtime environment. For more information, see Node.js version compatibility table for project type.
@@ -33,11 +33,11 @@ Get started with Teams AI library using the sample. It enables your computer’s
 
 2. Run the following command to clone the repository:
 
-Windows Command Prompt
-
-Copy
-git clone https://github.com/microsoft/teams-ai.git
-Go to Visual Studio Code.
+    Windows Command Prompt
+    
+    Copy
+    git clone https://github.com/microsoft/teams-ai.git
+    Go to Visual Studio Code.
 
 3. Select File > Open Folder.
 
@@ -102,7 +102,7 @@ Go to Visual Studio Code.
 
 13. Select Add.
 
-A chat window opens.
+    A chat window opens.
 
 14. In the message compose area, send a message to invoke the bot.
 
