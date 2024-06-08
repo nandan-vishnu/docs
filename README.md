@@ -7,13 +7,13 @@ Get started with Teams AI library using the sample, which is designed to help yo
 ### Prerequisites
 To get started, ensure that you have the following tools:
 
-Visual Studio Code
-Teams Toolkit
-Git
-Node.js
-Microsoft Teams
-OpenAI or Azure OpenAI
-Microsoft Edge (recommended) or Google Chrome
+Visual Studio Code, 
+Teams Toolkit, 
+Git, 
+Node.js, 
+Microsoft Teams, 
+OpenAI or Azure OpenAI, 
+Microsoft Edge (recommended) or Google Chrome, 
 Microsoft 365 developer account
 
 If you've already run the samples before or encountered a runtime error, follow these steps to start fresh:
@@ -43,7 +43,7 @@ Get started with Teams AI library using the sample. It enables your computer’s
 
 5. Go to the location where you cloned samples repo and select the sample folder.
 
-6. Select Select Folder.
+6. Select **Select Folder**.
 
 7. Select View > Terminal. A terminal window opens.
 
@@ -68,7 +68,7 @@ Get started with Teams AI library using the sample. It enables your computer’s
 
 9. After the dependencies are installed, select File > Open Folder.
 
-10. Go to samples folder and select Select Folder. All the files for the sample are listed under the EXPLORER section in Visual Studio Code.
+10. Go to samples folder and select **Select Folder**. All the files for the sample are listed under the **EXPLORER** section in Visual Studio Code.
 
 11. Update the following steps based on the AI services you select.
 
